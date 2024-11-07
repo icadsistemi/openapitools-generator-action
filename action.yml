@@ -1,4 +1,4 @@
-name: "openapi-generator"
+name: "is-openapi-generator"
 description: "Generates a client library from an openapifile using OpenAPITools' generator"
 branding:
   icon: target
